@@ -25,7 +25,7 @@ html {
 }
 
 body {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 h5 {
@@ -101,7 +101,7 @@ h5 {
 }
 
 .container .container2 header .icons i {
-    font-size: large;
+    font-size:medium;
 
 
 
@@ -146,7 +146,7 @@ h5 {
 
 .container .container2 header .options {
     font-size: large;
-    padding-left: 90%;
+    padding-left: 70%;
 
 }
 
@@ -189,8 +189,7 @@ h5 {
 .container .container2 main .Backlog ,.container .container2 main .InProgress ,.container .container2 main .Review {
     display: grid;
     grid-template-rows: 1fr 1fr;
-    border: 1px solid black;
+    border: 30px solid var(--bg-background);
     background-color: var(--bg-primary);
-
 }
 
